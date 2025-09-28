@@ -4,8 +4,10 @@ const csv = require('csv-parser');
 const results = [];
 
 fs.createReadStream('emails.csv')
-    .pipe(csv())
+    .pipe(csv({ headers: ['id', 'sender', 'subject', 'body'] }))
     .on('data', (row) => {
+        if (!row.subject || !row.body) return;
+
         const subject = row.subject.toLowerCase();
         const body = row.body.toLowerCase();
 
@@ -18,7 +20,6 @@ fs.createReadStream('emails.csv')
         }
     })
     .on('end', () => {
-
         fs.writeFileSync('leave_request.json', JSON.stringify(results, null, 2), 'utf-8');
-        console.log("✅ Lọc xong! Kết quả lưu tại leave_request.json");
+        console.log("Done");
     });
