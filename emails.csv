@@ -1,0 +1,100 @@
+1,alice@company.com,Leave request,I would like to take leave on 2025-09-28
+2,bob@company.com,IT issue,My laptop cannot connect to wifi
+3,charlie@client.com,New leave request,I would like to take day off on
+4,david@company.com,System error,The ERP system is not responding properly
+5,eva@client.com,Meeting request,Can we schedule a meeting about project Alpha?
+6,frank@company.com,Invoice query,I need clarification regarding invoice #123
+7,grace@partner.org,Access issue,I cannot access HR portal from my laptop
+8,henry@company.com,Password reset,Please help reset my email account password
+9,irene@client.com,Feedback,Following up regarding budget planning
+10,jack@partner.org,Support needed,Please share updates on next sprint
+11,thomas@company.com,Feedback,Following up regarding client request
+12,tammy@partner.org,Leave request,Requesting day off on 2025-10-19
+13,jaime@company.com,System error,Please help fix network with my tablet
+14,maureen@client.com,Meeting request,Can we schedule a meeting about project Alpha?
+15,caitlin@client.com,Project update,Following up regarding client request
+16,jason@company.com,Project update,Requesting your input on project Alpha
+17,craig@partner.org,Feedback,Can we schedule a meeting about client request?
+18,albert@partner.org,Feedback,I need clarification regarding invoice #123
+19,sharon@partner.org,Invoice query,Following up regarding client request
+20,kaylee@client.com,Meeting request,Can we schedule a meeting about budget planning?
+21,nicholas@client.com,Feedback,Requesting your input on next sprint
+22,bryan@company.com,Meeting request,Requesting your input on client request
+23,ashley@partner.org,Support needed,Requesting your input on next sprint
+24,daniel@company.com,Meeting request,Following up regarding invoice #123
+25,peggy@company.com,Access issue,The HR portal is not responding properly
+26,brandy@company.com,Project update,Can we schedule a meeting about next sprint?
+27,lisa@company.com,Project update,Please share updates on budget planning
+28,samantha@client.com,Feedback,I need clarification regarding client request
+29,kimberly@company.com,New leave request,Requesting day off on 2025-10-11
+30,cory@company.com,Meeting request,Can we schedule a meeting about client request?
+31,vanessa@client.com,Password reset,I am facing wifi on my phone
+32,kyle@client.com,Leave request,Requesting day off on 2025-10-04
+33,julie@client.com,Project update,Requesting your input on client request
+34,erika@partner.org,Project update,Requesting your input on project Alpha
+35,kelly@company.com,Leave request,I would like to take leave on 2025-10-08
+36,michael@client.com,Meeting request,Following up regarding client request
+37,nicole@client.com,Feedback,I need clarification regarding next sprint
+38,lauren@company.com,Password reset,The HR portal is not responding properly
+39,meghan@client.com,Feedback,Can we schedule a meeting about invoice #123?
+40,kim@client.com,Project update,Can we schedule a meeting about budget planning?
+41,gabriella@company.com,System error,Please help fix email with my laptop
+42,marcus@client.com,IT issue,My tablet cannot connect to network
+43,miranda@partner.org,Project update,I need clarification regarding client request
+44,dawn@partner.org,System error,My laptop cannot connect to network
+45,sherry@client.com,Invoice query,Requesting your input on next sprint
+46,julie@partner.org,IT issue,I am facing wifi on my laptop
+47,kristin@partner.org,Access issue,I cannot access CRM system from my desktop
+48,tara@client.com,Support needed,Please share updates on client request
+49,michael@client.com,Project update,I need clarification regarding project Alpha
+50,luis@client.com,New leave request,I would like to take leave on 2025-10-05
+51,kristen@client.com,IT issue,I am facing VPN on my tablet
+52,john@company.com,Password reset,My tablet cannot connect to VPN
+53,jessica@company.com,IT issue,Please help fix network with my desktop
+54,joseph@client.com,IT issue,The HR portal is not responding properly
+55,donna@partner.org,Access issue,The HR portal is not responding properly
+56,alexis@company.com,Support needed,Please share updates on next sprint
+57,peter@company.com,Invoice query,Can we schedule a meeting about client request?
+58,kathleen@partner.org,Feedback,Can we schedule a meeting about invoice #123?
+59,tiffany@company.com,New hire process,Following up regarding invoice #123
+60,jasmine@company.com,Leave request,I need to be absent on 2025-10-22 due to personal reasons
+61,kevin@partner.org,Feedback,I need clarification regarding next sprint
+62,yvette@client.com,New hire process,Following up regarding next sprint
+63,vincent@partner.org,Project update,Following up regarding invoice #123
+64,carolyn@client.com,New leave request,Requesting day off on 2025-10-08
+65,marie@partner.org,Leave request,Can I take vacation on 2025-10-23?
+66,james@partner.org,Meeting request,I need clarification regarding budget planning
+67,alexander@client.com,Password reset,I cannot access CRM system from my phone
+68,jaclyn@partner.org,Project update,Please share updates on next sprint
+69,tiffany@client.com,Leave request,Requesting day off on 2025-10-02
+70,angela@company.com,Access issue,My tablet cannot connect to VPN
+71,connie@company.com,Feedback,Requesting your input on client request
+72,james@client.com,Password reset,I am facing VPN on my tablet
+73,amanda@client.com,IT issue,Please help fix VPN with my desktop
+74,angela@partner.org,Leave request,I need to be absent on 2025-10-09 due to personal reasons
+75,roger@partner.org,New leave request,Requesting day off on 2025-10-18
+76,robin@company.com,New leave request,I would like to take leave on 2025-10-21
+77,wayne@company.com,IT issue,My laptop cannot connect to wifi
+78,dakota@company.com,Project update,Can we schedule a meeting about client request?
+79,tracy@partner.org,Project update,Requesting your input on next sprint
+80,peter@client.com,IT issue,I cannot access CRM system from my tablet
+81,donald@client.com,New hire process,Requesting your input on budget planning
+82,katie@partner.org,Password reset,I cannot access HR portal from my tablet
+83,jasmine@company.com,Access issue,My laptop cannot connect to email
+84,karen@client.com,Invoice query,Requesting your input on client request
+85,charles@partner.org,Project update,Requesting your input on next sprint
+86,janet@company.com,Leave request,I would like to apply for leave on 2025-10-25
+87,christopher@company.com,System error,Please help fix wifi with my tablet
+88,michelle@partner.org,Invoice query,Following up regarding client request
+89,alicia@client.com,Access issue,I cannot access CRM system from my phone
+90,tina@client.com,Password reset,Please help fix printer with my desktop
+91,emily@client.com,Access issue,The CRM system is not responding properly
+92,ashley@partner.org,Support needed,Can we schedule a meeting about project Alpha?
+93,sandra@partner.org,Access issue,Please help fix network with my desktop
+94,faith@client.com,Password reset,My tablet cannot connect to printer
+95,shane@company.com,System error,Please help fix VPN with my desktop
+96,michele@company.com,IT issue,I am facing email on my phone
+97,justin@client.com,Feedback,Following up regarding client request
+98,david@client.com,System error,I cannot access ERP system from my phone
+99,joseph@client.com,System error,Please help fix network with my desktop
+100,ashley@company.com,Leave request,I need to be absent on 2025-10-13 due to personal reasons
